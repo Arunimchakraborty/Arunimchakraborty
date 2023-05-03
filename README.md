@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello Everynyan!!!!!!👋🏻
+## Hau are yu
+### Fine??
+#### Sank yu
+
+Me Arunim 🐱. Me code 💻. Me code good 🤓. Me make project 📁. Me project good 🥳. 
+Sank yu
 
 <!--
 **Arunimchakraborty/Arunimchakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
